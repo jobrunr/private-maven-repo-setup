@@ -1,6 +1,6 @@
 # Proxy JobRunr Pro private releases with JFrog Artifactory
 
-> Disclaimer: Our main focus is showing how to setup a proxy of the JobRunr Pro private releases. Although we show how to start a JFrog server, it's own only because this serves our purpose. It's the end-user's task to make sure they follow the best practices of JFrog.
+> Disclaimer: Our main focus is showing how to setup a proxy of the JobRunr Pro private releases. Although we show how to start a JFrog server, it's own only because this serves our purpose. It's the end-user's task to make sure the configuration follows their internal security policy and the best practices from JFrog.
 
 ## Starting a local JFrog Artifactory server
 
@@ -87,4 +87,4 @@ You can find the summary of the information needed for your build tool to connec
 
 Using this information, you can proceed and configure your build tool as you'd usually do.
 
-In our tests, we use the credentials of the admin, please make sure the user you usually use has access to this newly added repository proxy.
+> In our tests, we use the credentials of the admin, please make sure the user you usually use has access to this newly added repository proxy.
