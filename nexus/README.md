@@ -56,7 +56,7 @@ This it! We've provided the minimum required configuration for Sonatype Nexus Re
 
 ## Update your build tool configuration
 
-You can find the summary of the information needed for your build tool to connect to the proxy, i.e., the name of the repository and its url by going back  to the `Browse` page. The URL can be copied by clicking on the `copy` button in the `URL` column.
+You can find the summary of the information needed for your build tool to connect to the proxy, i.e., the name of the repository and its url by going to the `Browse` page. The URL can be copied by clicking on the `copy` button in the `URL` column.
 
 ![Repository URL](./screenshots/nexus-repo-url.png)
 
