@@ -1,5 +1,7 @@
 # Proxy JobRunr Pro private releases with Reposilite
 
+> Please make sure your **proxy is only available by your company**, i.e., should not be accessible publicly by anonymous users!
+
 > Disclaimer: Our main focus is showing how to setup a proxy of the JobRunr Pro private releases. Although we show how to start a Reposilite server, it's own only because this serves our purpose. It's the end-user's task to make sure the configuration follows their internal security policy and the best practices from Reposilite.
 
 ## Starting a local Reposilite server
