@@ -2,3 +2,4 @@
 
 - [JFrog](/jfrog/README.md)
 - [Reposilite](/reposilite/README.md) 
+- [Sonatype Nexus](/nexus/README.md)
